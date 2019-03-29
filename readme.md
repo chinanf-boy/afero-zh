@@ -19,10 +19,9 @@
 <!-- repo = 'spf13/afero' -->
 <!-- commit = 'd40851caa0d747393da1ffb28f7f9d8b4eeffebd' -->
 <!-- time = '2018-09-07' -->
-
-| 翻译的原文 | 与日期        | 最新更新 | 更多                       |
-| ---------- | ------------- | -------- | -------------------------- |
-| [commit]   | ⏰ 2018-09-07 | ![last]  | [中文翻译][translate-list] |
+翻译的原文 | 与日期 | 最新更新 | 更多
+---|---|---|---
+[commit] | ⏰ 2018-09-07 | ![last] | [中文翻译][translate-list]
 
 [last]: https://img.shields.io/github/last-commit/spf13/afero.svg
 [commit]: https://github.com/spf13/afero/tree/d40851caa0d747393da1ffb28f7f9d8b4eeffebd
@@ -35,7 +34,7 @@
 
 ## 生活
 
-[help me live , live need money 💰](https://github.com/chinanf-boy/live-need-money)
+[If help, **buy** me coffee —— 营养跟不上了，给我来瓶营养快线吧! 💰](https://github.com/chinanf-boy/live-need-money)
 
 ---
 
